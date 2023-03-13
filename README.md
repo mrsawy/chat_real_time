@@ -8,7 +8,9 @@ Install dependencies using npm install or yarn install
 Create a Firebase project and add your Firebase config details to the .env file. The .env.example file is provided as a template for your Firebase config variables.
 Start the app using npm start or yarn start
   <h2>photo of the app running<h2/>
-<img style='width:2px;height:40px' src='https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/5fe0c50f68984a6370b85e64_1.PNG' />
+<img  src='https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/5fe0c50f68984a6370b85e64_1.PNG' />
+    ![Screenshot of the app in action](/screenshots/screenshot.png[)
+](https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/5fe0c50f68984a6370b85e64_1.PNG)
   <h2>Usage<h2/>
 Launch the app on your emulator or device using the Expo client.
 Sign up for a new account or log in using an existing account.
