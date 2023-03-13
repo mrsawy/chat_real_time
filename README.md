@@ -1,6 +1,6 @@
-#React Native Chat App using Expo, React Native Gifted Chat, React Native Elements UI, and Firebase
+##React Native Chat App using Expo, React Native Gifted Chat, React Native Elements UI, and Firebase
 This is a React Native Chat App built using Expo, React Native Gifted Chat, React Native Elements UI, and Firebase. The app allows users to sign up, log in, and send messages to each other.
-#
+
 #Installation#
 Clone this repository to your local machine using git clone https://github.com/username/react-native-chat-app.git
 Navigate to the project directory using cd react-native-chat-app
